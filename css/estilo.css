@@ -1,0 +1,98 @@
+
+body {
+        background-color: #58D68D;
+}
+header {
+    display: flex;
+    background-color: #000;
+    width: 100%;
+    }
+.divF {
+    background-color: black;
+}
+.logoH {
+    display: flex;
+    margin: 0;
+    height: 120px;
+}
+.tambores {
+width: 75%;
+height: auto;
+padding-left: 25%; 
+}
+.vasos {
+    width: 75%;
+    height: auto;
+    padding-left: 25%;
+}
+.card {
+    border: none;
+    margin: 10px;
+    width: 66%;
+    height: auto;
+    font-size: small;
+}
+.virreyes {
+    width: 40%;
+    height: auto;
+    margin: 10px;
+}
+.pv {
+    text-align: start;
+}
+.san {
+    width: 40%;
+    height: auto;
+    margin: 10px;
+}
+.logo {
+    max-width: 150px;
+}
+h2 {
+    margin: 15px;
+    padding: 15px;
+}
+nav ul {
+    list-style: none;
+}
+li {
+    display: inline-block;
+    margin: 0px 10px;
+}
+li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+main {
+    margin: 10px;
+    padding: 10px;
+}
+.cervezas {
+    margin: 10px;
+    padding: 10px;
+}
+.curriculum {
+    margin: 20px;
+    padding: 10px;
+}
+.formulario {
+    margin-bottom: 15px;
+    margin: 10px;
+    padding: 10px;
+    }
+.footerF {
+    background-color: #000;
+ }
+ .contCartel {
+    display: flex;
+    }
+ .cartel {
+    width: 350px;
+    border-radius: 15px;
+    margin-right: 25px;
+    padding: auto;
+ }
+
+
+    
